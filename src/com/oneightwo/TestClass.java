@@ -1,6 +1,7 @@
 package com.oneightwo;
 
 public class TestClass {
+    //хоба
     // коммит 2 девелоп
     // коммит 1 девелоп
     // тест 2.3 из мастера
